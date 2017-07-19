@@ -1,0 +1,21 @@
+{
+  "name": "es.keensoft.fullscreenimage",
+  "version": "1.0.1",
+  "description": "Show image in full screen mode with native components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhray/FullScreenImage-Cordova-Plugin.git"
+  },
+  "keywords": [
+  ],
+  "author": "EddyVerbruggen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uhray/FullScreenImage-Cordova-Plugin/issues"
+  },
+  "homepage": "https://github.com/uhray/FullScreenImage-Cordova-Plugin"
+}
